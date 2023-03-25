@@ -7,3 +7,9 @@ header {
     align-items: center;
     justify-content: center;
 }
+
+header p {
+    color: black;
+    font-size: 32px;
+    text-transform: capitalize;
+}
